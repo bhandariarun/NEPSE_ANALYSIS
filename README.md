@@ -3,9 +3,9 @@
 
 cmd(according to our projects)
 
--Python3 -m venv venv
+- Python3 -m venv venv
 
--Then venv/Scrpits/activate
+- Then venv/Scrpits/activate
 
 # Tools that are used in this Project :
 1.VSCODE
