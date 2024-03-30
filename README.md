@@ -20,4 +20,18 @@ cmd(according to our projects)
 We did scraping from this website https://merolagani.com/LatestMarket.aspx only for educational purpose
 
 # Django Setup Process
+First of all open the terminal in your project then use cmd(reference as our project)
 
+-pip install django
+
+-django-admin startproject nepse . or python -m django startproject nepse .
+
+-python manage.py makemigrations
+
+-python manage.py migrate
+
+-python manage.py runserver
+
+-python manage.py createsuperuser
+
+-python manage.py startapp home
