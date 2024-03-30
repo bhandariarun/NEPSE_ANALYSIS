@@ -1,4 +1,10 @@
 # NEPSE_ANALYSIS_PROJECT
+-When you start your project you have to activate venv
+
+cmd
+-Python3 -m venv venv
+
+-Then venv/Scrpits/activate
 
 # Tools that are used in this Project :
 1.VSCODE
@@ -11,4 +17,6 @@
 
 # WebScraping 
 We did scraping from this website https://merolagani.com/LatestMarket.aspx only for educational purpose
+
+# Django Setup Process
 
