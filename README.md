@@ -7,5 +7,7 @@
 
 3.Colab
 
+4.Jupyter Notebook
+
 # WebScraping 
 We did scraping from this website https://merolagani.com/LatestMarket.aspx only for educational purpose
