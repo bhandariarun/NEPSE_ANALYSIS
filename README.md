@@ -1,7 +1,7 @@
 # NEPSE_ANALYSIS_PROJECT
--When you start your project you have to activate venv
+-When you start your project you have to activate venv because venv cannot affect other project when we install package or upgrate the version in the current project
 
-cmd
+cmd(according to our projects)
 -Python3 -m venv venv
 
 -Then venv/Scrpits/activate
