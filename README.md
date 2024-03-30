@@ -6,3 +6,6 @@
 2.Pycharm
 
 3.Colab
+
+# WebScraping 
+We did scraping from this website https://merolagani.com/LatestMarket.aspx only for educational purpose
