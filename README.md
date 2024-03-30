@@ -22,16 +22,16 @@ We did scraping from this website https://merolagani.com/LatestMarket.aspx only 
 # Django Setup Process
 First of all open the terminal in your project and you must be open the terminal in venv environment then use cmd(reference as our project)
 
--pip install django
+- pip install django
 
--django-admin startproject nepse . or python -m django startproject nepse .
+- django-admin startproject nepse . or python -m django startproject nepse .
 
--python manage.py makemigrations
+- python manage.py makemigrations
 
--python manage.py migrate
+- python manage.py migrate
 
--python manage.py runserver
+- python manage.py runserver
 
--python manage.py createsuperuser
+- python manage.py createsuperuser
 
--python manage.py startapp home
+- python manage.py startapp home
