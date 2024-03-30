@@ -11,3 +11,4 @@
 
 # WebScraping 
 We did scraping from this website https://merolagani.com/LatestMarket.aspx only for educational purpose
+Error = $Y_{actual} - Y_{predicted}$
