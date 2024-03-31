@@ -7,6 +7,8 @@ cmd(according to our projects)
 
 - Then venv/Scrpits/activate
 
+- After that you have to create requirements.txt and add the package that you required and install requirements.txt as pip install -r requirements.txt
+
 # Tools that are used in this Project :
 1.VSCODE
 
